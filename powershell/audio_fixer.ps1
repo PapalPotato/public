@@ -6,8 +6,6 @@ LG monitor so I can use my soundbar.
 Context:  Audio outputs disappear often when the system resumes from sleep.  Rather than clicking through and doing 
 it manually, I finally wrote a script.  Run it as administrator.
 
-Sometimes everything breaks when the computer comes out 
-of sleep.  This should save me some time and efforts.
 #>
 
 
